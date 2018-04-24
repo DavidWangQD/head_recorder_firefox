@@ -118,7 +118,7 @@ function monitorInit() {
                             configNotice();
                         }
                     },
-                    {urls: config['urls']},
+                    {urls: config['urls'], types : config['types']},
                     ["requestHeaders"]
                 );
             },
