@@ -1,0 +1,77 @@
+{
+  "extensionName": {
+    "message": "Header Recorder",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Record the head info of each http request.",
+    "description": "Description of the extension."
+  },
+
+  "configNoticeTitle": {
+    "message": "Dear Owner:",
+    "description": "Configuration Notice Title."
+  },
+
+  "configNoticeMessage": {
+    "message": "Hello, I am Robot Tom, You haven't configured your extension, please do that first, then you can upload the header info to the server.",
+    "description": "Configuration Notice Message."
+  },
+
+  "networkNoticeTitle": {
+    "message": "Dear Owner:",
+    "description": "Network Notice Title."
+  },
+
+  "networkNoticeMessage": {
+    "message": "Oh~, There is something wrong with the connection to the server. Please contact you administrator as soon as possible.",
+    "description": "Network Notice Message."
+  },
+
+  "validationNameNoEmpty": {
+    "message": "Please fill in your name.",
+    "description": "validation Name No Empty"
+  },
+
+  "validationNameLength": {
+    "message": "Name should be no more than 20 characters.",
+    "description": "validation Name Length"
+  },
+
+  "validationServerNoEmpty": {
+    "message": "Please fill in your server.",
+    "description": "validation Server No Empty"
+  },
+
+  "labelName": {
+    "message": "Name：",
+    "description": "label name"
+  },
+
+  "labelServer": {
+    "message": "Server：",
+    "description": "label server"
+  },
+
+  "placeholderName": {
+    "message": "Account Name",
+    "description": "placeholder name"
+  },
+
+  "placeholderServer": {
+    "message": "yuanchuang.cyaar.top",
+    "description": "placeholder server"
+  },
+
+  "buttonOK": {
+    "message": "OK",
+    "description": "button OK"
+  },
+
+  "buttonCancel": {
+    "message": "Cancel",
+    "description": "button Cancel"
+  }
+
+}

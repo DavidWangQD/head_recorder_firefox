@@ -1,0 +1,76 @@
+{
+  "extensionName": {
+    "message": "头部信息记录器",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "记录http请求的头部信息.",
+    "description": "Description of the extension."
+  },
+
+  "configNoticeTitle": {
+    "message": "尊敬的小主人：",
+    "description": "Configuration Notice Title."
+  },
+
+  "configNoticeMessage": {
+    "message": "哈喽！我是小机器人Tom，您还没有配置您的个人信息，请先配置您的个人信息，然后才可以上传验证信息到服务器呦~",
+    "description": "Configuration Notice Message."
+  },
+
+  "networkNoticeTitle": {
+    "message": "尊敬的小主人：",
+    "description": "Network Notice Title."
+  },
+
+  "networkNoticeMessage": {
+    "message": "哈喽！我是小机器人Tom，您的服务器连接出现故障，请及时联系管理员~ ",
+    "description": "Network Notice Message."
+  },
+
+  "validationNameNoEmpty": {
+    "message": "请填写姓名",
+    "description": "validation Name No Empty"
+  },
+
+  "validationNameLength": {
+    "message": "姓名最多可填写20个字符",
+    "description": "validation Name Length"
+  },
+
+  "validationServerNoEmpty": {
+    "message": "请填写服务器",
+    "description": "validation Server No Empty"
+  },
+
+  "labelName": {
+    "message": "姓名：",
+    "description": "label name"
+  },
+
+  "labelServer": {
+    "message": "服务器：",
+    "description": "label server"
+  },
+
+  "placeholderName": {
+    "message": "账号名称",
+    "description": "placeholder name"
+  },
+
+  "placeholderServer": {
+    "message": "yuanchuang.cyaar.top",
+    "description": "placeholder server"
+  },
+
+  "buttonOK": {
+    "message": "确认",
+    "description": "button OK"
+  },
+
+  "buttonCancel": {
+    "message": "取消",
+    "description": "button Cancel"
+  }
+}

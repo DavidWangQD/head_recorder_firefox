@@ -1,0 +1,36 @@
+body {
+  margin-bottom: -10px;
+}
+ul {
+  padding: 0;
+}
+li {
+  list-style: none;
+  display: block;
+  width: 230px;
+  height: 30px;
+}
+li.warn {
+  height: 25px;
+  color: red;
+  font-size: 12px;
+}
+li.warn span {
+  margin-left: 80px;
+}
+input[type='text'] {
+  float: left;
+}
+input[type='submit'] {
+  float: right;
+  margin-right: 20px;
+}
+label {
+  float: left;
+  display: block;
+  width: 80px;
+  text-align: right;
+}
+.hide{
+    visibility: hidden;
+}
